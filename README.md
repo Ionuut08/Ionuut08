@@ -8,6 +8,7 @@
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width = "auto" height = "50px"
 </a>
 
+<p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various applications in order to learn more
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
-
+</p>
