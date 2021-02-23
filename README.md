@@ -9,8 +9,8 @@
 <p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on various applications in order to learn more
-- 🌱 I’m currently learning javascript and python
+- 🔭 I’m currently working on various applications in many languages in order to learn as much as possible.
+- 🌱 I’m currently learning javascript and python.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
