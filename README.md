@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
 </p>
+
+
+https://github-readme-stats.vercel.app/api?username=Ionuut08
