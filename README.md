@@ -21,4 +21,9 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: -->
 </p>
 
-
+<a href="https://github-readme-stats.vercel.app/api?username=Ionuut08&show_icons=true&theme=radical&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionuut08&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ionuut08&repo=convoychat" />
+</a>
