@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: -->
 </p>
-
+<hr>
 <a href="https://github.com/Ionuut08/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ionuut08&show_icons=true&theme=radical&count_private=true" />
 </a>
-
+<hr>
 <a href="https://github.com/Ionuut08?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ionuut08&langs_count=10&theme=dracula&layout=compact&card_width=270" align="center" />
 </a>
